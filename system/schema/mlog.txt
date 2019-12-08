@@ -1,0 +1,4 @@
+2,root.ln.wf01.wt01
+0,root.ln.wf01.wt01.status,0,0,1
+0,root.ln.wf01.wt01.temperature,4,0,1
+0,root.ln.wf01.wt01.hardware,1,0,1
